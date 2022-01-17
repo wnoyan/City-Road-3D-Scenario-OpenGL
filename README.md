@@ -2,7 +2,7 @@
 
 ## YouTube Video Link: https://www.youtube.com/watch?v=vfw9n3_tAo0
 
-City Road 3D Scenario using OpenGL C++ - Dynamic city road 3D scenario is created using OpenGL. View transformations, material properties, lighting, texturing and curves (Bezier Curve)  have been used to develop this project.
+City Road 3D Scenario using OpenGL C++ - Dynamic city road 3D scenario is created using OpenGL. View transformations, material properties, lighting, shading, texturing and curves (Bezier Curve)  have been used to develop this project.
 
 ## Graphics Features 
 The graphics features that have been used in this project is listed below:
