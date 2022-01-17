@@ -9,6 +9,7 @@ The graphics features that have been used in this project is listed below:
   * Transformations
   * Materials Properties
   * Lighting
+  * Shading
   * Texturing
   * Curves (Bezier Curve)
 
